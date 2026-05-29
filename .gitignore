@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Node.js
+node_modules/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# JetBrains
+.idea/
+
+# VS Code
+.vscode/
+
+# Hermes runtime state
+state.db
+state.db-wal
+state.db-shm
+.env
+auth.json
+active_profile
+home/
+logs/
+
+# Superpowers brainstorming
+.superpowers/
+
+# Claude Code
+.claude/
+
+# Nix
+result
